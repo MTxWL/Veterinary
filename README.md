@@ -14,4 +14,4 @@ Project include:
 - actual data analysis (joins, group by, having, rank, functions, views, case when, max, avg and many more)
 - database backup (.sql/ .csv/ .txt) and database dump
 
-Requirements: postgreSQL, Linux terminal, pgAdmin III
+Requirements: postgreSQL 9.5+, Linux terminal, pgAdmin III
