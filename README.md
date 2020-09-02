@@ -1,5 +1,5 @@
 # PostgreSQL-veterinary-
-Veterinary clinic support
+Aim: Veterinary clinic support
 
 Data origin from [website](https://www.superdatascience.com/pages/sql) and was extended. 
 
