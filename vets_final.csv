@@ -1,0 +1,5 @@
+vet_id,name,address,vet_specialisation,salary_fixed,overhours_rate,overhours
+"1","(John,M,Tyrmand)","(""777 Redutowa"",Warsaw,MAZ,Masovian,01107)","(Dog,yes,no)","5400","120","10"
+"2","(Holden,M,Caulfield)","(""132 Puste Pola"",Warsaw,MAZ,Masovian,02107)","(Cat,no,yes)","7400","21","100"
+"3","(Vivian,F,Maier)","(""112 Reduta"",Warsaw,MAZ,Masovian,09807)","(dog,yes,yes)","1040","50","80"
+"4","(Antoni,M,Gaudi)","(""132 Barca"",Barcelona,CAT,Catalonia,12107)","(Cat,yes,no)","1700","40","100"
