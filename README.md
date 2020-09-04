@@ -1,4 +1,4 @@
-# PostgreSQL-veterinary-
+# PostgreSQL-t_vet_eri_nary
 Aim: Veterinary clinic support
 
 Data origin from [website](https://www.superdatascience.com/pages/sql) and was extended. 
